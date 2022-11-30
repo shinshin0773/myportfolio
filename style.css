@@ -85,7 +85,6 @@ html, body{
 .button_container span:nth-of-type(3) {
   top: 22px;
 }
-
 .overlay {
   position: fixed;
   top: 0;
@@ -190,7 +189,7 @@ html, body{
 }
 
 
-/* 
+/*
 タイトル */
 .my_introduction {
     margin: 0 auto;
@@ -342,7 +341,7 @@ html, body{
     padding: 30px 0 60px 0;
     background-image: url(image/toppage3.jpg)
   }
-  
+
   .skill{
     width: 20%;
     display: inline-block;
@@ -401,7 +400,7 @@ html, body{
     background-size:cover;
     top: 0
   }
-  
+
   .portfolio {
       height:			auto;
       overflow:		hidden;
@@ -552,7 +551,7 @@ footer {
   .follow-me li .twitter::before { content: "\f099"; }
   .follow-me li .youtube::before { content: "\f16a"; }
   .follow-me li .gmail::before { content: "\f0e0"; }
-  
+
   .follow-me li .facebook:hover::before { background-color: #3b5998; }
   .follow-me li .instagram:hover::before { background: linear-gradient(to right, #5478f2 0%, #f23f79 80%, orange 100%);}
   .follow-me li .twitter:hover::before { background-color: #55acee; }
@@ -617,7 +616,7 @@ footer {
     .service_section {
         background-image: url(image/toppage14\ \(1\).jpg);
     }
-    
+
 }
 
 @media screen and (min-width:768px) and ( max-width:1024px) {
